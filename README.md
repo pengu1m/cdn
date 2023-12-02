@@ -4,7 +4,7 @@
 
 ## Folders
 
-- `assets`: Blog assets by Zero SSG
+- `assets`: Blog assets (image, etc ...)
 - `codes`: Some useful codes
 - `img`: Some original or base images
 - `doc`: Some useful and static documents
