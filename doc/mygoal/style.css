@@ -1,0 +1,14 @@
+body {
+    font-size: large;
+}
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.box {
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px black solid;
+}
